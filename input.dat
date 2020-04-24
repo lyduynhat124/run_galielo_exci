@@ -1,0 +1,12 @@
+0
+2
+1000.
+400
+1.
+# Note:
+#== line 1:					m - the magnetic quantum number recommended to put the values m=-7,-6...0,1,2,3,4,5,6,7 only.
+#== line 2:					nr_max - for limiting the printed energies with n up to n_max=nr_max+|m|+1
+#== line 3:					gamma - the dimensionless magnetic intensity
+#== line 4:					s - for limiting the number of basis set functions N_max=(s+1)(s+2)/4+([s/2]+1)/2 (Recommended value: from 14)
+#== line 5:					*omega - the free parameter to control the convergence rate. Recommended values are from 0.85 to 1.15. 
+                                     The value 1. is for the optimal choice of omega.
